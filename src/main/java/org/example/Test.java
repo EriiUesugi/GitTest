@@ -6,5 +6,6 @@ public class Test {
         System.out.println("game");
         System.out.println("Devil May Cry");
         System.out.println("Hello java");
+        System.out.println("AkrNights");
     }
 }
